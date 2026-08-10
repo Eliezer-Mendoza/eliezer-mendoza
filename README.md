@@ -18,6 +18,7 @@ I am passionate about technology, software development, and building innovative 
 - **Gaming:** Passionate about video games in general.
 - **Complex Challenges:** I love a good challenge! I am constantly looking for complex problems or projects that will make me think deeply and keep me engaged for months.
 
+---
 
 ### 🚀 Projects & Experience
 
