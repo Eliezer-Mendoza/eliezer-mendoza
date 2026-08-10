@@ -22,14 +22,12 @@ I am passionate about technology, software development, and building innovative 
 
 ### 📊 My GitHub Stats 
 
+
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezer-mendoza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-mendoza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
-
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliezer-mendoza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
