@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BB86FC&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+Eliezer+(Ant);Embracing+the+challenge.;No+pain,+no+gain." alt="Typing SVG" />
 </div>
----
+
 # Hi there! I'm Eliezer 👋 🇳🇮
 
 ### Systems Engineering Student | Aspiring Developer
