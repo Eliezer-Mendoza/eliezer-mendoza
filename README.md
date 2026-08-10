@@ -14,6 +14,11 @@ I am passionate about technology, software development, and building innovative 
 
 ---
 
+### 🎯 Interests & Hobbies
+- **Gaming:** Passionate about video games in general.
+- **Complex Challenges:** I love a good challenge! I am constantly looking for complex problems or projects that will make me think deeply and keep me engaged for months.
+
+
 ### 🚀 Projects & Experience
 
 * **🧠 Upcoming AI Project:** I am currently very excited to build a project integrating Artificial Intelligence and pattern recognition using Google's libraries. I am working on the concepts and will link the repository here as soon as it's ready!
@@ -24,11 +29,7 @@ I am passionate about technology, software development, and building innovative 
 
 
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezer-mendoza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-mendoza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-<div align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliezer-mendoza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
