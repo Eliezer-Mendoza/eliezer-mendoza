@@ -34,8 +34,6 @@ I am passionate about technology, software development, and building innovative 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliezer-mendoza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eliezer-mendoza&theme=dark)](https://git.io/streak-stats)
-
 
 ---
 
