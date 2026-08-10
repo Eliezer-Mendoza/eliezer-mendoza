@@ -14,8 +14,6 @@ I am passionate about technology, software development, and building innovative 
 
 ---
 
----
-
 ### 🚀 Projects & Experience
 
 * **🧠 Upcoming AI Project:** I am currently very excited to build a project integrating Artificial Intelligence and pattern recognition using Google's libraries. I am working on the concepts and will link the repository here as soon as it's ready!
