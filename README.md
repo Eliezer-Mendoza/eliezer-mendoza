@@ -12,9 +12,9 @@ I am passionate about technology, software development, and building innovative 
 
 ### 👨‍💻 About me
 - 🎓 1st-year Systems Engineering student at UNI.
-- 📍 Based in Ciudad Sandino, Nicaragua.
+- 📍 Based in Managua, Nicaragua.
 - 💡 Focused on learning and applying innovation methodologies like *Design Thinking*.
-- 🎮 In my free time, you can find me playing **osu!**, **Fortnite**, or the **Resident Evil** franchise.
+- 🎮 In my free time, you can find me playing **any type of genre** in video games.
 
 ---
 
@@ -26,7 +26,14 @@ I am passionate about technology, software development, and building innovative 
 ### 🎯 Interests & Hobbies
 - **Gaming:** Passionate about video games in general.
 - **Complex Challenges:** I love a good challenge! I am constantly looking for complex problems or projects that will make me think deeply and keep me engaged for months.
-
+---
+### 🎯 Goals & Aspirations
+- 🎓 Successfully complete my university degree in Systems Engineering.
+- 🗄️ Master Database Management Systems.
+- 🌐 Become a proficient Full-Stack Web Developer.
+- 🖥️ Build and deploy robust Desktop Applications.
+- 🛡️ Dive deep into Cybersecurity principles and practices.
+- 🤖 Learn and apply Machine Learning concepts.
 
 ---
 
