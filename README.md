@@ -23,17 +23,19 @@ I am passionate about technology, software development, and building innovative 
 ### 📊 My GitHub Stats 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezer-mendoza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezer-mendoza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eliezer-mendoza&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliezer-mendoza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eliezer-mendoza&theme=dark)](https://git.io/streak-stats)
+
 
 ---
 
